@@ -61,6 +61,9 @@ header {
 {
     text-align:center;
 }
+.download-btn {
+	padding-right: 6px;
+}
 @media (min-width: 1200px) {
   .container {
     width: 970px;
